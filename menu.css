@@ -1,0 +1,32 @@
+.icon{
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    cursor: pointer;
+    background-color: #8c8989;
+}
+
+.icon:hover{
+    opacity: 0.5;
+}
+
+.text{
+    text-align: center;
+    color: white;
+    padding: 20px;
+}
+
+body {
+    display: flex;
+    height: 100px;
+}
+
+.menu img {
+    width: 24px;
+    height: 24px;
+    margin-right: 10px;
+}
+
+.text1{
+    padding-left: 20px;
+}
